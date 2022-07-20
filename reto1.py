@@ -39,5 +39,3 @@ while acerto != True:
         print("Recuerda que el numero debe ser entre 1 y 100")
 
 
-
-print(numero_aleatorio)
